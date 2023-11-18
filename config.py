@@ -1,5 +1,5 @@
 class config:
-    global token; token = "" # Your account token
+    global token; token = "MTA2MzIxMDU3NzA1MDIxMDMzNA.GsiL9_.cYm3RmIhWcCEtPRB10xnzjKGtDnb0teGsMfoqE" # Your account token
     global prefix; prefix = [
         "v.",
         ",",
